@@ -1,4 +1,4 @@
-# python main.py 9-view 111111 > log
+# python main.py 9-view 114514 > log
 
 # python main.py random 1919810 > log
 
